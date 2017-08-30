@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/fb2-bm_uvic/!svn/ver/1255/branches/kkvale/updates/mobi_with_calcifiers/data
+END
+A_solarcon.nc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/fb2-bm_uvic/!svn/ver/1255/branches/kkvale/updates/mobi_with_calcifiers/data/A_solarcon.nc
+END
+restart.nc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/fb2-bm_uvic/!svn/ver/1255/branches/kkvale/updates/mobi_with_calcifiers/data/restart.nc
+END
+O_alk.nc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/fb2-bm_uvic/!svn/ver/1255/branches/kkvale/updates/mobi_with_calcifiers/data/O_alk.nc
+END
+L_rivers.nc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/fb2-bm_uvic/!svn/ver/1255/branches/kkvale/updates/mobi_with_calcifiers/data/L_rivers.nc
+END
+G_subgrid_ocean_mask.nc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/fb2-bm_uvic/!svn/ver/1255/branches/kkvale/updates/mobi_with_calcifiers/data/G_subgrid_ocean_mask.nc
+END
+A_dc14.nc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/fb2-bm_uvic/!svn/ver/1255/branches/kkvale/updates/mobi_with_calcifiers/data/A_dc14.nc
+END
+A_windsur.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/fb2-bm_uvic/!svn/ver/1255/branches/kkvale/updates/mobi_with_calcifiers/data/A_windsur.nc
+END
+A_wind.nc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/fb2-bm_uvic/!svn/ver/1255/branches/kkvale/updates/mobi_with_calcifiers/data/A_wind.nc
+END
+si_dep.nc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/fb2-bm_uvic/!svn/ver/1255/branches/kkvale/updates/mobi_with_calcifiers/data/si_dep.nc
+END
+A_aggfor.nc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/fb2-bm_uvic/!svn/ver/1255/branches/kkvale/updates/mobi_with_calcifiers/data/A_aggfor.nc
+END
+G_mskhreg.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/fb2-bm_uvic/!svn/ver/1255/branches/kkvale/updates/mobi_with_calcifiers/data/G_mskhreg.nc
+END
+F_co2emit.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/fb2-bm_uvic/!svn/ver/1255/branches/kkvale/updates/mobi_with_calcifiers/data/F_co2emit.nc
+END
+O_dc14.nc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/fb2-bm_uvic/!svn/ver/1255/branches/kkvale/updates/mobi_with_calcifiers/data/O_dc14.nc
+END
+O_tidenrg.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/fb2-bm_uvic/!svn/ver/1255/branches/kkvale/updates/mobi_with_calcifiers/data/O_tidenrg.nc
+END
+ferret.jnl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/fb2-bm_uvic/!svn/ver/1255/branches/kkvale/updates/mobi_with_calcifiers/data/ferret.jnl
+END
+L_ice.nc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/fb2-bm_uvic/!svn/ver/1255/branches/kkvale/updates/mobi_with_calcifiers/data/L_ice.nc
+END
+F_co2dist.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/fb2-bm_uvic/!svn/ver/1255/branches/kkvale/updates/mobi_with_calcifiers/data/F_co2dist.nc
+END
+O_totcarb.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/fb2-bm_uvic/!svn/ver/1255/branches/kkvale/updates/mobi_with_calcifiers/data/O_totcarb.nc
+END
+O_tempsur.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/fb2-bm_uvic/!svn/ver/1255/branches/kkvale/updates/mobi_with_calcifiers/data/O_tempsur.nc
+END
+A_sulphod.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/fb2-bm_uvic/!svn/ver/1255/branches/kkvale/updates/mobi_with_calcifiers/data/A_sulphod.nc
+END
+L_potveg.nc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/fb2-bm_uvic/!svn/ver/1255/branches/kkvale/updates/mobi_with_calcifiers/data/L_potveg.nc
+END
+O_po4.nc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/fb2-bm_uvic/!svn/ver/1255/branches/kkvale/updates/mobi_with_calcifiers/data/O_po4.nc
+END
+A_co2.nc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/fb2-bm_uvic/!svn/ver/1255/branches/kkvale/updates/mobi_with_calcifiers/data/A_co2.nc
+END
+O_temp.nc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/fb2-bm_uvic/!svn/ver/1255/branches/kkvale/updates/mobi_with_calcifiers/data/O_temp.nc
+END
+O_fe_dissolved.nc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/fb2-bm_uvic/!svn/ver/1255/branches/kkvale/updates/mobi_with_calcifiers/data/O_fe_dissolved.nc
+END
+G_mskt.nc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/fb2-bm_uvic/!svn/ver/1255/branches/kkvale/updates/mobi_with_calcifiers/data/G_mskt.nc
+END
+O_salsur.nc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/fb2-bm_uvic/!svn/ver/1255/branches/kkvale/updates/mobi_with_calcifiers/data/O_salsur.nc
+END
+O_diffac.nc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/fb2-bm_uvic/!svn/ver/1255/branches/kkvale/updates/mobi_with_calcifiers/data/O_diffac.nc
+END
+A_cfc.nc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/fb2-bm_uvic/!svn/ver/1255/branches/kkvale/updates/mobi_with_calcifiers/data/A_cfc.nc
+END
+G_grid.nc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/fb2-bm_uvic/!svn/ver/1255/branches/kkvale/updates/mobi_with_calcifiers/data/G_grid.nc
+END
+G_subgrid_bathy.nc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/fb2-bm_uvic/!svn/ver/1283/branches/kkvale/updates/mobi_with_calcifiers/data/G_subgrid_bathy.nc
+END
+O_sal.nc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/fb2-bm_uvic/!svn/ver/1255/branches/kkvale/updates/mobi_with_calcifiers/data/O_sal.nc
+END
+O_o2.nc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/fb2-bm_uvic/!svn/ver/1255/branches/kkvale/updates/mobi_with_calcifiers/data/O_o2.nc
+END
+A_slatref.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/fb2-bm_uvic/!svn/ver/1255/branches/kkvale/updates/mobi_with_calcifiers/data/A_slatref.nc
+END
+G_kmt.nc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/fb2-bm_uvic/!svn/ver/1255/branches/kkvale/updates/mobi_with_calcifiers/data/G_kmt.nc
+END
+O_tidenrg_egbert.nc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/fb2-bm_uvic/!svn/ver/1255/branches/kkvale/updates/mobi_with_calcifiers/data/O_tidenrg_egbert.nc
+END
+A_calbatm.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/fb2-bm_uvic/!svn/ver/1255/branches/kkvale/updates/mobi_with_calcifiers/data/A_calbatm.nc
+END
+L_diurtemp.nc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/fb2-bm_uvic/!svn/ver/1255/branches/kkvale/updates/mobi_with_calcifiers/data/L_diurtemp.nc
+END
+L_elev.nc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/fb2-bm_uvic/!svn/ver/1255/branches/kkvale/updates/mobi_with_calcifiers/data/L_elev.nc
+END
+L_cropfra.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/fb2-bm_uvic/!svn/ver/1255/branches/kkvale/updates/mobi_with_calcifiers/data/L_cropfra.nc
+END
+O_feflux.nc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/fb2-bm_uvic/!svn/ver/1255/branches/kkvale/updates/mobi_with_calcifiers/data/O_feflux.nc
+END
+O_tau.nc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/fb2-bm_uvic/!svn/ver/1255/branches/kkvale/updates/mobi_with_calcifiers/data/O_tau.nc
+END
+A_diff.nc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/fb2-bm_uvic/!svn/ver/1255/branches/kkvale/updates/mobi_with_calcifiers/data/A_diff.nc
+END
+O_cfc.nc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/fb2-bm_uvic/!svn/ver/1255/branches/kkvale/updates/mobi_with_calcifiers/data/O_cfc.nc
+END
+A_volcfor.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/fb2-bm_uvic/!svn/ver/1255/branches/kkvale/updates/mobi_with_calcifiers/data/A_volcfor.nc
+END
+O_no3.nc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/fb2-bm_uvic/!svn/ver/1255/branches/kkvale/updates/mobi_with_calcifiers/data/O_no3.nc
+END

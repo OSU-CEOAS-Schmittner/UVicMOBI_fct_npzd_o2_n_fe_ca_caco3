@@ -1,0 +1,18 @@
+ ! NOAA/PMEL TMAP
+ ! FERRET v6.67  
+ ! Linux(gfortran) 2.6.18-238.1.1.el5 - 02/11/11
+ ! 12-Feb-15 13:17     
+
+use O_tidenrg.nc
+use "../../dofe/data/O_tidenrg.nc"
+sh da
+shade tidenrg-tidenrg[d=1]
+ca da/all
+use O_tidenrg_egbert.nc
+use "../../dofe/data/O_tidenrg_egbert.nc"
+sh da
+shade m2[d=1,k=1]-m2[d=2,k=1]
+shade m2[d=1,k=@sum]-m2[d=2,k=@sum]
+shade s2[d=1,k=@sum]-s2[d=2,k=@sum]
+exu
+exi
